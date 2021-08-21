@@ -1,0 +1,6 @@
+Model 1: Use all features where r > 0.15
+Model 2: Use three selected features
+
+11 diagrams per patient in the training data -> Each diagram has the output of Model 1 and Model 2.
+
+2 scatterplot diagrams: one is for model1 and BIS for 11 patients together, another one is for model2 and BIS for 11 patients together.
