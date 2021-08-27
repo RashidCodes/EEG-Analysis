@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 2_EEG200908190811.mat
 Class A train sets/
-eeg_data.csv
 Class B test sets/
+test_set.csv
+training_set.csv
 
