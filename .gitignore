@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 test_set.csv
 training_set.csv
+alpha.csv
 Class A train sets/
 Class B test sets/
 
