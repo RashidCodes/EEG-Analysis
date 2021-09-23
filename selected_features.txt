@@ -1,0 +1,23 @@
+--------------
+CH2^2 Measures
+--------------
+Petrosian_CA_4
+Petrosian_CD_3
+
+
+
+-----------
+CH2Denoised
+-----------
+Petrosian_CA_4
+Petrosian_CD_3
+Petrosian_CD_1 (Best result)
+
+
+
+--------------
+CH2_Denoised^2
+--------------
+Petrosian_CA_4 
+Petrosian_CD_3 
+Petrosian_CD_1 
