@@ -1,4 +1,7 @@
 .DS_Store
-.ipynb_checkpoints
+.ipynb_checkpoints/
 2_EEG200908190811.mat
-
+Class A train sets/
+Class B test sets/
+test_set.csv
+training_set.csv
