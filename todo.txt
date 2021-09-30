@@ -1,0 +1,13 @@
+1. Improve upon the predictive power of your model by selecting two extra features based on other methods.
+2. Plot the confidence interval of the R^2.
+3. Upload your tableau for your teammates' perusal.
+
+
+And that will be all for today Mr.!
+
+
+('SampenCD_2D', 'Petrosian_CD_3D', 'SampenCA_4DS', 'Katz_cA_4')
+0.23
+
+('SampenCD_2D', 'SampenCA_4DS', 'Katz_cD_1DS', 'Katz_cA_4')
+0.26
