@@ -1,13 +1,22 @@
-1. Improve upon the predictive power of your model by selecting two extra features based on other methods.
-2. Plot the confidence interval of the R^2.
-3. Upload your tableau for your teammates' perusal.
+ADVICE
+------
+1. Present one final model in your dissertation
+2. Don't present all the models you found
+3. In your appendix, you can mention you've tried other featuresets
+4. Only use one paragraph to mention you've tried different methods in the body.
+
+5. In the body, present only the best featureset. present how you got the features present how you selected them. Present the scatterplots.
 
 
-And that will be all for today Mr.!
 
+ADD A NEW THING
+---------------
+1. Look at section 7.4.2. Talks about Signal Quality
 
-('SampenCD_2D', 'Petrosian_CD_3D', 'SampenCA_4DS', 'Katz_cA_4')
-0.23
+2. You have to show that your model is better than the BIS.
 
-('SampenCD_2D', 'SampenCA_4DS', 'Katz_cD_1DS', 'Katz_cA_4')
-0.26
+3. Use the patients that have SQI. You only need to present them in section 7.4.2.
+
+4. Use Class D first. Don't worry too much about Class C. Make sure you cut down the SQI to make the lengths the same.
+
+5. Choose just 2 patients.
