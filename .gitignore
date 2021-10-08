@@ -3,6 +3,8 @@
 2_EEG200908190811.mat
 Class A train sets/
 Class B test sets/
+Class D invalids/
+selected_features.txt
 alpha.csv
 test_set.csv
 training_set.csv
